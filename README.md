@@ -25,3 +25,6 @@ I did not test other versions, you can have a try.
 ```python evaluate.py```  
 The results of liver CT segmentation and tumor segmentation are based on the following indicators:**Dice coefficient** and **RVD(relative volume difference)** and **VOE(volumetric overlap error)**.
 ### Result
+![img/image0.png](img/image0.png)
+![img/image1.png](img/image1.png)
+![img/image2.png](img/image2.png)
