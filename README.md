@@ -17,6 +17,11 @@ I use keras.preprocessing.image to do the data augmentation in order to get enou
 + keras == 2.0.5  
 I did not test other versions, you can have a try.
 #### Training
+
+```python trainUnet.py```
 #### Testing
+```python testUnet.py```
 #### Evaluating
+```python evaluate.py```  
+The results of liver CT segmentation and tumor segmentation are based on the following indicators:**Dice coefficient** and **RVD(relative volume difference)** and **VOE(volumetric overlap error)**.
 ### Result
