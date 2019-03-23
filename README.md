@@ -26,5 +26,5 @@ I did not test other versions, you can have a try.
 The results of liver CT segmentation and tumor segmentation are based on the following indicators:**Dice coefficient** and **RVD(relative volume difference)** and **VOE(volumetric overlap error)**.
 ### Result
 ![img/image.jpg](img/image.jpg)
-![img/image-label.jpg](img/image-label.jpg)
-![img/image-prediction.jpg](img/image-prediction.jpg)
+![img/image-label.png](img/image-label.png)
+![img/image-prediction.png](img/image-prediction.png)
